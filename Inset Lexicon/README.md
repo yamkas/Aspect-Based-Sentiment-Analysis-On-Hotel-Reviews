@@ -1,1 +1,3 @@
 ## Source : https://www.researchgate.net/publication/321757985_InSet_Lexicon_Evaluation_of_a_Word_List_for_Indonesian_Sentiment_Analysis_in_Microblogs
+
+https://github.com/fajri91/InSet
